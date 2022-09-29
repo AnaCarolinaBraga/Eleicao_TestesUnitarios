@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eleicoes", "Eleicoes.csproj", "{F7C4C6F8-D106-4AFC-A140-44DD97155B87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eleicoes.Tests", "..\Eleicoes.Tests\Eleicoes.Tests.csproj", "{5BE1A609-E2B6-405A-A133-6CE8C7548015}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7C4C6F8-D106-4AFC-A140-44DD97155B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C4C6F8-D106-4AFC-A140-44DD97155B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C4C6F8-D106-4AFC-A140-44DD97155B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C4C6F8-D106-4AFC-A140-44DD97155B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BE1A609-E2B6-405A-A133-6CE8C7548015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE1A609-E2B6-405A-A133-6CE8C7548015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE1A609-E2B6-405A-A133-6CE8C7548015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE1A609-E2B6-405A-A133-6CE8C7548015}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4922964A-4767-4C3D-9FCF-F5544FDE1EE4}
+	EndGlobalSection
+EndGlobal
