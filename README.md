@@ -4,6 +4,7 @@ Exercício da disciplina de Testes Automatizados I | C# da formação de Web Ful
 ### O que esse exercício cobrou?
 - Aprendizado sobre elaboração de Testes Unitários;
 - Aprendizado sobre o TDD (classe Candidatos criado usando TDD)
+- Nome dos testes baseado na documentação da [microsoft](https://learn.microsoft.com/pt-br/dotnet/core/testing/unit-testing-best-practices).
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.Exercício proposto-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-. 
 
